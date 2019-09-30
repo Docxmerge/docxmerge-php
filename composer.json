@@ -1,5 +1,5 @@
 {
-  "name": "docxmerge",
+  "name": "docxmerge/docxmerge-php",
   "description": "A skeleton for writing php packages",
   "license": "MIT",
   "authors": [
