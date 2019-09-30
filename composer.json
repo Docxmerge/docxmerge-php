@@ -8,8 +8,6 @@
       "email": "davidviejopomata@gmail.com"
     }
   ],
-  "prefer-stable": true,
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Docxmerge\\": "src"
